@@ -1,0 +1,16 @@
+* {
+    color : gray;
+    background-color: black;
+}
+.heading-main {
+    color : white;
+    text-align : center;
+    font-weight: 700;
+    font-size: xx-large;
+}
+.list-item {
+    text-align: center;
+    font-size: large;
+    font-weight: 300;
+    color: paleturquoise;
+}
